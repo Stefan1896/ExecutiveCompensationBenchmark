@@ -3,4 +3,4 @@ The goal of this project is to create a shiny app which shows remuneration level
 
 The app can be found here: https://swerner1896.shinyapps.io/ExecutiveCompensationBenchmarking/
 
-
+The data was pulled according to the following method: https://www.kaggle.com/code/elky96/remuneration-benchmark
